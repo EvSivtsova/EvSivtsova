@@ -6,7 +6,9 @@ Technology plays a key role in the solution mix: from better informing our decis
 
 Hence, I’m here, exploring technological solutions and working towards a more sustainable future.
 
-<div class="tenor-gif-embed" data-postid="11272615492075065603" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-gray-glasses-working-typing-gif-11272615492075065603">Cat Gray Sticker</a>from <a href="https://tenor.com/search/cat-stickers">Cat Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
+</div>
 
 ## Languages and Tools
 
