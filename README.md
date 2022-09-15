@@ -1,4 +1,4 @@
-## Welcome to my GitHub page!
+## Welcome to my GitHub page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 My name is Ev. I'm a Software Developer with background in sustainability consulting and marketing. Being primarily value-driven, I'm focusing on finding solutions to the challenges our society is facing. 
 
@@ -16,6 +16,9 @@ Hence, I’m here, exploring technological solutions and working towards a more 
   <a href="https://www.linkedin.com/in/evgeniasivtsova">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=EvSivtsova&style=flat-square&color=blue" alt=""/>
 </div>
 
 ## Languages and Tools
