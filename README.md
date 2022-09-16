@@ -2,9 +2,9 @@
 
 My name is Ev. I'm a Software Developer with background in sustainability consulting and marketing. Being primarily value-driven, I'm focusing on finding solutions to the challenges our society is facing. 
 
-Technology plays a key role in the solution mix: from better informing our decision making process to directly helping us to reduce our impact on the environment. And as evidenced by the last couple of years, technology is essential in helping us to connect and making it easier for us to live fulfilling and impactful lives if it is used appropriately. 
+Technology plays a key role in the solution mix: from better informing our decision making process to directly helping us to reduce our impact on the environment. And as evidenced by the last couple of years, technology is essential in helping us to connect and making it easier for us to live fulfilling and impactful lives. 
 
-Hence, I’m here, exploring technological solutions and working towards a more sustainable future.
+Hence, I’m here, working towards a more sustainable future and, simply, having fun. :upside_down_face:
 
 <br>
 
