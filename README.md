@@ -6,6 +6,8 @@ Technology plays a key role in the solution mix: from better informing our decis
 
 Hence, I’m here, working towards a more sustainable future and, simply, having fun. :upside_down_face:
 
+[Please find out more about my technical experience, projects and interests here](https://github.com/EvSivtsova/CV).
+
 <br>
 
 <div id="header" align="center">
